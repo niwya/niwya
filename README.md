@@ -1,11 +1,14 @@
 ### ✨ Bonjour ✨
 
+My name is Chloé, and I'm an engineer. 
+
 - 🔭 I'm currently working on...
 - ![30%](https://progress-bar.dev/30) Autonomous plant watering system (ESP-32, C/C++)
 - ![30%](https://progress-bar.dev/30) Multicurrency bill splitter (C++)
 
 - 🔭 Some of my fun past projects are...
-- ![100%](https://progress-bar.dev/100) Cheezam - a cheese classifier
+- [x] Cheezam - a cheese classifier
+- [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
 
 <!--
 **niwya/niwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
