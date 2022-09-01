@@ -1,6 +1,6 @@
 ### ✨ Bonjour ✨
 
-My name is Chloé, and I'm an engineer. 
+My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'm a die-hard fan of the Portal series. I'm obsessed with cheese (well - I'm French :fr:, so that's self-explanatory). I like planes, UAVs, and autonomous cars. 
 
 🔭 I'm currently working on...
 - ![30%](https://progress-bar.dev/30) Autonomous plant watering system (ESP-32, C/C++)
