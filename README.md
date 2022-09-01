@@ -1,11 +1,11 @@
 ### ✨ Bonjour ✨
 
 - 🔭 I'm currently working on...
-- [ ] Autonomous plant watering system (ESP-32, C/C++)
-- [ ] Multicurrency bill splitter (C++)
+- ![30%](https://progress-bar.dev/30) Autonomous plant watering system (ESP-32, C/C++)
+- ![30%](https://progress-bar.dev/30) Multicurrency bill splitter (C++)
 
 - 🔭 Some of my fun past projects are...
-- [x] Cheezam - a cheese classifier
+- ![100%](https://progress-bar.dev/100) Cheezam - a cheese classifier
 
 <!--
 **niwya/niwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
