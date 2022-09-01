@@ -6,7 +6,7 @@ My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'
 - ![30%](https://progress-bar.dev/30) Autonomous plant watering system (ESP-32, C/C++)
 - ![30%](https://progress-bar.dev/30) Multicurrency bill splitter (C++)
 
-	:heavy_check_mark: Some of my fun past projects are...
+:heavy_check_mark: Some of my fun past projects are...
 - [x] Cheezam - a cheese classifier
 - [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
 
