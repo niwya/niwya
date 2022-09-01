@@ -1,8 +1,8 @@
 ### ✨ Bonjour ✨
 
 - 🔭 Currently working on ...
-- [] Autonomous plant watering system (ESP-32, C/C++)
-- [] Multicurrency bill splitter (C++)
+- [ ] Autonomous plant watering system (ESP-32, C/C++)
+- [ ] Multicurrency bill splitter (C++)
 
 <!--
 **niwya/niwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
