@@ -16,6 +16,7 @@ My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'
 - [ ] Integrate unit testing
 - [X] Integrate CMake to compile/link/build
 - [ ] Finish implementing the main program
+
 For a nicer user experience:
 - [ ] Design a GUI using Qt
 
