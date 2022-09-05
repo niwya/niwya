@@ -13,10 +13,10 @@ ___
 - [ ] Solder all components
 
 
-- ![40%](https://progress-bar.dev/40) Multicurrency bill splitter (C++)
+- ![50%](https://progress-bar.dev/50) Multicurrency bill splitter (C++)
 - [X] Implement base classes
 - [ ] Implement all class methods
-- [ ] Integrate unit testing
+- [ ] Integrate unit testing and make it work with CMake
 - [X] Integrate CMake to compile/link/build
 - [ ] Finish implementing the main program
 
