@@ -24,9 +24,9 @@ For a nicer user experience:
 - [x] Cheezam - a cheese classifier
 - [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
 
-### :thought_balloon: Some future projetcs ideas...
-- Chicago CTA Bus Tracker
-- Google Smartphone Decimeter Challenge
+### :thought_balloon: Some projects ideas for the future...
+- Chicago CTA Bus Tracker (to know buses alternate routes when there is roadwork planned on their usual path)
+- Google Smartphone Decimeter Challenge + meddling a bit more with GnssLogger
 - VALORANT Bot using Computer Vision techniques
 
 <!--
