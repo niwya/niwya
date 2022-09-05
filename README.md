@@ -24,6 +24,11 @@ For a nicer user experience:
 - [x] Cheezam - a cheese classifier
 - [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
 
+### :thought_balloon: Some future projetcs ideas...
+- Chicago CTA Bus Tracker
+- Google Smartphone Decimeter Challenge
+- VALORANT Bot using Computer Vision techniques
+
 <!--
 **niwya/niwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
