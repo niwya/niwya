@@ -25,8 +25,8 @@ For a nicer user experience:
 - [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
 
 ### :thought_balloon: Some projects ideas for the future...
-- Chicago CTA Bus Tracker (to know buses alternate routes when there is roadwork planned on their usual path)
-- Google Smartphone Decimeter Challenge + meddling a bit more with GnssLogger
+- [Chicago CTA Bus Tracker](https://www.transitchicago.com/developers/) (to know buses alternate routes when there is roadwork planned on their usual path)
+- [Google Smartphone Decimeter Challenge](https://www.kaggle.com/competitions/smartphone-decimeter-2022) + meddling a bit more with [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger)
 - VALORANT Bot using Computer Vision techniques
 - Play around with the [Cityscapes dataset](https://www.cityscapes-dataset.com/)
 
