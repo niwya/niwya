@@ -2,6 +2,8 @@
 
 My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'm a die-hard fan of the Portal series. I'm obsessed with cheese (well - I'm French, so that's self-explanatory). I like planes, UAVs, and autonomous cars. I love learning - about anything and everything. I'm self-teching myself japanese right now. But enough facts, more code:
 
+___
+
 ### :gear: I'm currently working on...
 - ![60%](https://progress-bar.dev/60) Autonomous plant watering system (ESP-32, C/C++)
 - [X] Source all hardware
@@ -9,6 +11,8 @@ My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'
 - [X] Try timer/touch deep sleep wake-up
 - [ ] Add WiFi time and date fetching for weekly watering on chosen day
 - [ ] Solder all components
+
+___
 
 - ![40%](https://progress-bar.dev/40) Multicurrency bill splitter (C++)
 - [X] Implement base classes
@@ -20,9 +24,13 @@ My name is Chloé, and I'm an engineer. I like dance, photography and gaming. I'
 For a nicer user experience:
 - [ ] Design a GUI using Qt
 
+___
+
 ### :heavy_check_mark: Some of my fun past projects are...
 - [x] Cheezam - a cheese classifier
 - [x] Autonomous Waiter - a knowledge base and minimal planning module for a robot working in a restaurant
+
+___
 
 ### :thought_balloon: Some projects ideas for the future...
 - [Chicago CTA Bus Tracker](https://www.transitchicago.com/developers/) (to know buses alternate routes when there is roadwork planned on their usual path)
