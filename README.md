@@ -28,6 +28,7 @@ For a nicer user experience:
 - Chicago CTA Bus Tracker (to know buses alternate routes when there is roadwork planned on their usual path)
 - Google Smartphone Decimeter Challenge + meddling a bit more with GnssLogger
 - VALORANT Bot using Computer Vision techniques
+- Play around with the [Cityscapes dataset](https://www.cityscapes-dataset.com/)
 
 <!--
 **niwya/niwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
