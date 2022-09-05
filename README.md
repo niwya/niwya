@@ -12,7 +12,6 @@ ___
 - [ ] Add WiFi time and date fetching for weekly watering on chosen day
 - [ ] Solder all components
 
-___
 
 - ![40%](https://progress-bar.dev/40) Multicurrency bill splitter (C++)
 - [X] Implement base classes
