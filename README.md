@@ -6,6 +6,7 @@ ___
 
 ### :gear: I'm currently working on...
 - ![60%](https://progress-bar.dev/60) Autonomous plant watering system (ESP-32, C/C++)
+- 
 See [the repo's README](https://github.com/niwya/autonomous-plant-watering) for details about the to-do list.  
 
 - ![50%](https://progress-bar.dev/50) Multicurrency bill splitter (C++)
